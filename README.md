@@ -10,7 +10,7 @@ I’m a university student working on automation, AI, and backend systems — mo
 * Building automation workflows (n8n) and experimenting with AI systems for backend integrations
 * Building backend systems that actually scale
 
-🎮 Part of [Errantes](https://github.com/ErrantesCO) — a small indie game development studio just getting started
+🎮 Part of [Errantes](https://github.com/ErrantesCO) — a small indie game development studio just getting started.
 
 🚀 **Current projects**:
 
