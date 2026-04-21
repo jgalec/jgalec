@@ -13,6 +13,7 @@ I work on automation, AI, and backend systems — mostly building tools and work
 * [firefox-workspaces](https://github.com/jgalec/firefox-workspaces) — Lightweight workspace manager for Firefox, inspired by the workspaces feature in Microsoft Edge.
 * [xcast](https://github.com/xcast-dev/xcast) — Open-source Xbox Remote Play client built with React and TypeScript. Streams directly from your console via WebRTC with WebGPU-powered rendering.
 * [tali-vox](https://github.com/jgalec/tali) — AI-powered voice cloning and transcription workspace with modular services for speech synthesis, processing, and experimentation.
+* [simulacra](https://github.com/jgalec/simulacra) — AI-driven generative agents simulating believable human behavior through memory, reflection, and planning in interactive environments, based on the paper [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
 
 ⚡ Constantly learning, iterating, and improving
 
