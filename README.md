@@ -15,8 +15,13 @@ I’m a university student working on automation, AI, and backend systems — mo
 * [tali-vox](https://github.com/jgalec/tali) — AI-powered voice cloning and transcription workspace with modular services for speech synthesis, processing, and experimentation.
 * [simulacra](https://github.com/jgalec/simulacra) — AI-driven generative agents simulating believable human behavior through memory, reflection, and planning in interactive environments, based on the paper [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
 
+---
+
 💼 Currently working at [Cambio Digital](https://cambiodigital.net), focusing on automation and backend integrations.
+
 🎮 Part of [Errantes](https://github.com/ErrantesCO) — a small indie game development studio just getting started.
+
+---
 
 ⚡ Constantly learning, iterating, and improving
 
