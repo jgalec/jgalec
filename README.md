@@ -13,6 +13,7 @@ I’m a university student working on automation, AI, and backend systems — mo
 * [firefox-workspaces](https://github.com/jgalec/firefox-workspaces) — Lightweight workspace manager for Firefox, inspired by the workspaces feature in Microsoft Edge.
 * [xcast](https://github.com/xcast-dev/xcast) — Open-source Xbox Remote Play client built with React and TypeScript. Streams directly from your console via WebRTC with WebGPU-powered rendering.
 * [tali-vox](https://github.com/jgalec/tali) — AI-powered voice cloning and transcription workspace with modular services for speech synthesis, processing, and experimentation.
+* [cluster-navigation-engine](https://github.com/jgalec/cluster-navigation-engine) — An interactive 3D recreation of the galaxy map from Mass Effect, built for the web. It replicates the hierarchical navigation experience between clusters, systems, and planets using original, independently created code and assets.
 * [simulacra](https://github.com/jgalec/simulacra) — AI-driven generative agents simulating believable human behavior through memory, reflection, and planning in interactive environments, based on the paper [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
 
 ---
