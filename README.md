@@ -12,6 +12,7 @@ I’m a university student working on automation, AI, and backend systems — mo
 
 * [firefox-workspaces](https://github.com/jgalec/firefox-workspaces) — Lightweight workspace manager for Firefox, inspired by the workspaces feature in Microsoft Edge.
 * [xcast](https://github.com/xcast-dev/xcast) — Open-source Xbox Remote Play client built with React and TypeScript. Streams directly from your console via WebRTC with WebGPU-powered rendering.
+* [pcc-toolkit](https://github.com/commander-spaceman/pcc-toolkit) — CLI + GUI toolkit for inspecting, extracting, and analyzing Mass Effect 2 dialogue from .pcc files.
 * [simulacra](https://github.com/jgalec/simulacra) — AI-driven generative agents simulating believable human behavior through memory, reflection, and planning in interactive environments, based on the paper [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
 
 ---
