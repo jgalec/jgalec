@@ -4,33 +4,37 @@ I’m a university student working on automation, AI, and backend systems — mo
 
 🛠️ **What I enjoy:**
 
-* Creating useful tools
-* Building automation workflows with n8n
-* Experimenting with AI systems and backend integrations
-* Building backend systems designed to scale
+- Creating useful tools
+- Building automation workflows with n8n
+- Experimenting with AI systems and backend integrations
+- Building backend systems designed to scale
 
 ---
 
 ## 🚀 Projects
 
-### Tools & Systems
+### Featured Projects
 
-* [datavisualizr](https://github.com/jgalec/datavisualizr) (WIP) — Interactive learning tool for visualizing data structures and algorithms through step-by-step animations and operations.
-* [firefox-workspaces](https://github.com/jgalec/firefox-workspaces) — Lightweight workspace manager for Firefox, inspired by the workspaces feature in Microslop Edge.
-* [mem](https://github.com/jgalec/mem) — Lightweight memory system for AI agents and development workflows, designed to persist project context, decisions, blockers, lessons, and session history.
+- [quarian-voice-filter](https://github.com/commander-spaceman/quarian-voice-filter) — Reusable Rust voice-processing engine, CLI, and desktop application designed to recreate the distinctive filtered sound of quarian voices from the Mass Effect universe.
+- [nara](https://github.com/commander-spaceman/nara) — Experimental desktop companion combining a real-time 3D character, voice interaction, animations, persistent memory, and AI-driven conversation.
+- [pcc-toolkit](https://github.com/commander-spaceman/pcc-toolkit) — CLI toolkit for inspecting, extracting, validating, and editing Mass Effect 2 dialogue stored in `.pcc` packages and `.tlk` files.
 
-### Personal Projects
+> More nerdy projects on my other profile 🧑‍🚀 [commander-spaceman](https://github.com/commander-spaceman)
 
-* [xcast](https://github.com/xcast-dev/xcast) (WIP) — Open-source Xbox Remote Play client built with React and TypeScript. Streams directly from your console via WebRTC with WebGPU-powered rendering.
-* [nara](https://github.com/commander-spaceman/nara) (WIP) — Experimental virtual companion inspired by the Mass Effect universe, combining a real-time 3D character, voice interaction, animations, and AI-driven conversation.
-* [quarian-voice-filter](https://github.com/commander-spaceman/quarian-voice-filter) — Real-time voice processing experiment designed to recreate the distinctive filtered sound of quarian voices from the Mass Effect universe.
-* [pcc-toolkit](https://github.com/commander-spaceman/pcc-toolkit) — CLI toolkit for inspecting, extracting, editing, and analyzing Mass Effect 2 dialogue from `.pcc` packages and `.tlk` files. Built with the companion Go libraries [me2pcc](https://github.com/commander-spaceman/me2pcc), [me2tlk](https://github.com/commander-spaceman/me2tlk), and [me2lzo](https://github.com/commander-spaceman/me2lzo).
+### More Projects
+
+- [firefox-workspaces](https://github.com/jgalec/firefox-workspaces) — Lightweight workspace manager for Firefox, inspired by the workspaces feature in Microsoft Edge.
+- [mem](https://github.com/jgalec/mem) — Local MCP server for persistent, searchable, and traceable memory across AI agents and development workflows.
+- [datavisualizr](https://github.com/jgalec/datavisualizr) **(WIP)** — Interactive learning tool for visualizing data structures and algorithms through step-by-step animations and operations.
+- [xcast](https://github.com/xcast-dev/xcast) **(WIP)** — Open-source Xbox Remote Play client built with React and TypeScript, using WebRTC streaming and WebGPU-powered rendering.
 
 ---
 
-## 🧪 Research & Experimental Projects
+## 🧪 Experimental Projects
 
-* [simulacra](https://github.com/jgalec/simulacra) — Experimental framework for AI-driven generative agents capable of simulating believable human behavior through memory, reflection, and planning in interactive environments, inspired by the paper [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
+- [simulacra](https://github.com/jgalec/simulacra) **(WIP)** — Experimental framework for AI-driven generative agents capable of simulating believable human behavior through memory, reflection, and planning in interactive environments.
+
+  Inspired by the paper [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442).
 
 ---
 
