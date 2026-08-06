@@ -11,6 +11,10 @@ I’m a university student working on automation, AI, and backend systems — mo
 
 ---
 
+You can view [my entire portfolio here](https://jgalec.dev/en) :)
+
+---
+
 ## 🚀 Projects
 
 ### Featured Projects
