@@ -40,6 +40,8 @@ A dedicated space for ROM machine translation and retro game localization.
 
 - [firefox-workspaces](https://github.com/jgalec/firefox-workspaces) — Lightweight workspace manager for Firefox, inspired by the workspaces feature in Microsoft Edge.
 - [chromium-workspaces](https://github.com/jgalec/chromium-workspaces) — Lightweight workspace manager for Chromium-based browsers, inspired by the workspaces feature in Microsoft Edge.
+- [gnome-clipboard-history](https://gitlab.com/jgalec/gnome-clipboard-history) — Clipboard history manager for GNOME Shell.
+- [gnome-emoji-picker](https://gitlab.com/jgalec/gnome-emoji-picker) **(WIP)** — Emoji picker for GNOME Shell.
 - [codr](https://github.com/jgalec/codr) **(WIP)** — Open-source educational platform designed to make programming concepts easier to understand through visual and interactive learning experiences.
 - [datavisualizr](https://github.com/jgalec/datavisualizr) **(WIP)** — Interactive learning tool for visualizing data structures and algorithms through step-by-step animations and operations.
 
